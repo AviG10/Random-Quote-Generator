@@ -6,4 +6,4 @@
 
 ### Techstack used - HTML, CSS, JavaScript, Api Call.
 
-##### Link of website - 
+##### Link of website - https://avig10.github.io/Random-Quote-Generator/
